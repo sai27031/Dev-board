@@ -17,20 +17,20 @@ A developer task and project tracker built with React.
 
 ## Screenshots
 
+### Signup Page
+![Signup Page](screenshots/screenshot1.png)
+
 ### Login Page
-![Login Page](screenshots/screenshot1.png)
+![Login Page](screenshots/screenshot2.png)
 
 ### Dashboard - Light Mode
-![Light Mode](screenshots/screenshot2.png)
+![Light Mode](screenshots/screenshot3.png)
 
 ### Dashboard - Dark Mode
-![Dark Mode](screenshots/screenshot3.png)
+![Dark Mode](screenshots/screenshot4.png)
 
 ### Add Task
-![Add Task](screenshots/screenshot4.png)
-
-### Add Task with Priority
-![Add Task Priority](screenshots/screenshot5.png)
+![Add Task](screenshots/screenshot5.png)
 
 ## Getting Started
 ```bash
